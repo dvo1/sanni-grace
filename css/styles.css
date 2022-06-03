@@ -1,0 +1,168 @@
+
+
+body{
+  text-align: center;
+  margin: 0;
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+hr{
+  width: 70%;
+}
+
+h3{
+font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+font-family: 'Montserrat', sans-serif;
+}
+
+ul{
+  text-align: left;
+  margin: auto;
+  width: 8%;
+}
+
+.expert-png{
+margin: 300px 0px 0px 250px;
+}
+
+.education{
+position: absolute;
+top: 0;
+left: -45.5%;
+width: 15%
+bottom:auto;
+}
+
+.p1{
+  margin: auto;
+  width: 40%;
+  font-size: 1.1rem;
+  text-align: justify;
+}
+
+.p2{
+  margin: auto;
+  width: 40%;
+  font-size: 0.95rem;
+  float: right;
+  margin-right: 250px;
+  text-align: justify;
+  line-height: 1.5;
+
+}
+
+.p3{
+  margin: auto;
+  width: 40%;
+  font-size: 0.95rem;
+  float: right;
+  margin-right: 250px;
+  text-align: justify;
+  position: relative;
+
+}
+
+.first-container{
+  background-color: #AC7D88;
+  position: relative;
+  top: 0;
+}
+
+.last-container{
+  background-color: #AC7D88;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.bulb1{
+  width: 8%;
+  position: absolute;
+  top: 5%;
+  right: 15%;
+}
+
+.bulb2{
+  width: 8%;
+  position: absolute;
+  top: 50%;
+  left: 10%;
+
+}
+
+.hi-there{
+  margin-top: 0;
+  padding-top: 50px;
+  margin-bottom: 100px;
+  color: #ffffff;
+}
+
+.sanni-grace{
+  margin-bottom: 100px;
+  color:#ffffff;
+  font-family: 'Dancing Script', cursive;
+  font-size: 6.5rem;
+}
+
+.precious{
+  width: 15%;
+}
+
+.content-creator{
+  padding-bottom: 50px;
+  color: white;
+}
+
+.contact-me{
+  width: 40%;
+  font-size: 1.7rem;
+}
+
+.contact-me2{
+  margin: 30px 0 20px 0;
+}
+
+.you-can{
+color: #ffffff;
+padding-top: 15px;
+}
+
+.copyright{
+color: #ffffff;
+}
+
+.linkedin{
+color:#DEB6AB;
+text-decoration: none;
+font-size: 20px;
+}
+
+.btn {
+  background: #AC7D88;
+  background-image: -webkit-linear-gradient(top, #AC7D88, #DEB6AB);
+  background-image: -moz-linear-gradient(top, #AC7D88, #DEB6AB);
+  background-image: -ms-linear-gradient(top, #AC7D88, #DEB6AB);
+  background-image: -o-linear-gradient(top, #AC7D88, #DEB6AB);
+  background-image: linear-gradient( bottom, #AC7D88, #DEB6AB);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #AC7D88;
+  background-image: -webkit-linear-gradient(top, #AC7D88, #85586F);
+  background-image: -moz-linear-gradient(top, #AC7D88, #85586F);
+  background-image: -ms-linear-gradient(top, #AC7D88, #85586F);
+  background-image: -o-linear-gradient(top, #AC7D88, #85586F);
+  background-image: linear-gradient( bottom, #AC7D88, #85586F);
+  text-decoration: none;
+}
